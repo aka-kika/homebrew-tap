@@ -7,7 +7,7 @@ cask "personal-ops-manual" do
 
   url "https://github.com/aka-kika/personal-ops-manual/releases/download/v#{version}/Personal-Ops-Manual-#{version}.zip"
   name "Personal Ops Manual"
-  desc "Manual for your own setup: one Markdown page per machine, service and agent, read by AI agents over MCP"
+  desc "Manual for your own setup, one Markdown page per thing, read by AI agents"
   homepage "https://ops-manual.akakika.com/"
 
   livecheck do
