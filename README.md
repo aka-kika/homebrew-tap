@@ -12,6 +12,16 @@ brew install --cask aka-kika/tap/mcpock
 
 Site: https://mcpock.com
 
+## Pallet
+
+A color palette collection that themes itself, plus a Mac app that reads the real palette out of any image or screen area.
+
+```
+brew install --cask aka-kika/tap/pallet
+```
+
+Site: https://akakika.com/pallet/
+
 ## Sift
 
 Audit of every installed app on your Mac — what it is, what it costs you, whether it stays.
