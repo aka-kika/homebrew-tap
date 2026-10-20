@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "pallet" do
-  version "2.0.3"
-  sha256 "2964d1b931b9eeba72ac3154a7d05e2ddca30da0abdd7ec65432998e36cf0488"
+  version "2.0.4"
+  sha256 "844b44dadb1ee3a9bdd4b105c85913a7a25ad269c112267ccc75e5d7aca60421"
 
   url "https://github.com/aka-kika/pallet/releases/download/v#{version}/Pallet-#{version}.zip"
   name "Pallet"
