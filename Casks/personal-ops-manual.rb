@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "personal-ops-manual" do
-  version "2.4.1"
-  sha256 "3ed3c88525e7459790cfd07d4556cfeac7e37bded0ec4f516f896e368f7c291e"
+  version "2.4.2"
+  sha256 "71ed5a016b42411086a42ab9bf82b56e266c7fcb672772539c58bb362cd76ea9"
 
   url "https://github.com/aka-kika/personal-ops-manual/releases/download/v#{version}/Personal-Ops-Manual-#{version}.zip"
   name "Personal Ops Manual"
