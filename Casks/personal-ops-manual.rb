@@ -3,7 +3,7 @@
 
 cask "personal-ops-manual" do
   version "2.2.5"
-  sha256 "c73d15bbddef2f3ba43f69b3f18b24959aed7e7f6e156ebc4ffb301f82efcfa3"
+  sha256 "37ed7fb397637983b0db451f7a44faca486367141ef5c072389825e3ea234bac"
 
   url "https://github.com/aka-kika/personal-ops-manual/releases/download/v#{version}/Personal-Ops-Manual-#{version}.zip"
   name "Personal Ops Manual"
