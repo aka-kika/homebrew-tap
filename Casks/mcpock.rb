@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "mcpock" do
-  version "1.15.0"
-  sha256 "4ba4a065d53273a30640eaf4f887e6b3dc9d39689dd390d8d80913f095194ead"
+  version "1.15.1"
+  sha256 "9dd2a15ae69d96c2d459cf7df739ac6e93dda32682a38b5879b06773b7a9af3c"
 
   url "https://github.com/aka-kika/mcpock/releases/download/v#{version}/mcpock.dmg"
   name "mcpock"
